@@ -1,3 +1,11 @@
+<<<<<<< HEAD
 자격증: X
 대외활동 : 2025 한이음 드림업 예선 통과
 사용기술 : Java, Python, C, Github, Spring, MySQL
+=======
+Hello! I'm Stella.kim
+
+학력 : 수원대학교 컴퓨터SW전공 졸업
+이름 : 김지현
+나이 : 2002년생 (만 23세)
+>>>>>>> sub1
